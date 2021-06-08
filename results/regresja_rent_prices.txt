@@ -3,8 +3,8 @@
 Dep. Variable:            gross_price   R-squared:                       0.718
 Model:                            OLS   Adj. R-squared:                  0.711
 Method:                 Least Squares   F-statistic:                     112.0
-Date:                Mon, 07 Jun 2021   Prob (F-statistic):               0.00
-Time:                        08:06:13   Log-Likelihood:                -26494.
+Date:                Tue, 08 Jun 2021   Prob (F-statistic):               0.00
+Time:                        08:18:26   Log-Likelihood:                -26494.
 No. Observations:                3472   AIC:                         5.314e+04
 Df Residuals:                    3394   BIC:                         5.362e+04
 Df Model:                          77                                         
